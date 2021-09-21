@@ -5,7 +5,7 @@ html {
   
 }
 
-        h1 {color:rgb(14, 235, 217);
+        h1 {color:#206a5d;
         font-size:3em;
         text-shadow:2px 2px #f00;}
        table{font-size:x-large;}
@@ -14,7 +14,7 @@ html {
         
         td{color:rgb(21, 117, 104);}
         
-        p {background:rgb(245, 241, 220);}
+        p {background:rgb(192, 128, 189);}
         .steps {width:90%;}
 
         #cookies{
@@ -23,6 +23,13 @@ html {
         left:250px;
         z-index:10;
         float:left;}
+
+        #cookies2{
+        position: relative;
+        top:-220px;
+        left:250px;
+        z-index:10;
+        float:left;}   
 
        
             #container{width: 500px;
