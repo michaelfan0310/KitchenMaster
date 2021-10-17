@@ -35,19 +35,23 @@ html {
         #cookies{
         position: relative;
         top:-150px;
-        left: 300px;
+        right: -60%;
         z-index:10;
         float:left;}
 
         #cookies2{
         position: relative;
         top:-180px;
-        left:300px;
+        right: -60%;
         z-index:10;
         float:left;}   
 #box2 {
   position:relative;
-  left: -28%;
+  right: 38%;
+}
+#box3 {
+  position:relative;
+  right: 28%;
 }
        
             #container{width: 35vw;
