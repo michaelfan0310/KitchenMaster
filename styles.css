@@ -6,9 +6,15 @@ html {
 }
 
 
-        h1 {color:#206a5d;
-        font-size:3em;
-        text-shadow:2px 2px #f00;}
+        h1 {color:#000807;
+        font-size:3.5em;
+        text-shadow:2px 2px #f00;
+      }
+
+       h2 {color:#0d3f37;
+        font-size:1.5em;
+       
+      }
        table{font-size:x-large;}
         
         thead{color:rgb(219, 28, 89);}
@@ -18,7 +24,7 @@ html {
         .subtitle {
           text-decoration: none;
            font-size: 1.4rem;
-           color:rgb(21, 117, 104);           
+           color:rgb(2, 14, 12);           
         }
         
         p {background:rgb(192, 128, 189);
