@@ -5,6 +5,7 @@ html {
   
 }
 
+
         h1 {color:#206a5d;
         font-size:3em;
         text-shadow:2px 2px #f00;}
@@ -13,8 +14,17 @@ html {
         thead{color:rgb(219, 28, 89);}
         
         td{color:rgb(21, 117, 104);}
+
+        .subtitle {
+          text-decoration: none;
+           font-size: 1.4rem;
+           color:rgb(21, 117, 104);
+           
+        }
         
-        p {background:rgb(192, 128, 189);}
+        p {background:rgb(192, 128, 189);
+        font-size: 1.5rem;}
+
         .steps {width:90%;}
 
         #cookies{
@@ -32,7 +42,7 @@ html {
         float:left;}   
 
        
-            #container{width: 500px;
+            #container{width: 35vw;
                     margin:auto;
                   border: 3px solid rgb(125, 147, 190)  ;
                   border-top:  15px groove rgb(125, 147, 190);
